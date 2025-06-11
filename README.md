@@ -1,4 +1,4 @@
-# mandalorian-rental
+# Superhero Database
  
 ## Requisitos
 
